@@ -1,9 +1,10 @@
 # Hash-Verifier
 
-![Screenshot (8)](https://user-images.githubusercontent.com/104382438/230044683-8157bc52-28d2-4ccf-9203-5c32c166c152.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/104382438/230045607-99ac6532-3d50-4e1c-8814-6cfe682ca59a.png)
 
 
 # Installation
+
 
 git clone https://github.com/dragonwolf1o1/Hash-Verifier.git
 
